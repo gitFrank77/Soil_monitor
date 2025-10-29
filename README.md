@@ -49,13 +49,14 @@
 | Component | Version / Tool |
 |------------|----------------|
 | Compiler | `arm-none-eabi-gcc` v12.2.0 |
-| IDE | [VS Code / PlatformIO / STM32CubeIDE] |
+| IDE | [ STM32CubeIDE] |
 ---
 
 ## 🪛 Jumpers / Configuration
 - **BOOT0:** 0 (Normal boot)
 - **JP1:** Closed (5V via USB)
 ---
+
 
 
 
