@@ -5,6 +5,15 @@
                    goes from blinking to solid.]
 ---
 
+## 🏗️ System Architecture
+
+![System Architecture](docs/plant_monitor_blockflow.png)
+
+---
+
+## 🎬 Live Demo
+
+![STM32 Soil Monitor Demo](docs/soil_monitor_gif.gif)
 
 
 ## 🧭 Board Information
@@ -47,4 +56,5 @@
 - **BOOT0:** 0 (Normal boot)
 - **JP1:** Closed (5V via USB)
 ---
+
 
