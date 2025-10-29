@@ -13,7 +13,7 @@
 
 ## 🎬 Live Demo
 
-![STM32 Soil Monitor Demo](docs/soil_monitor_gif.gif)
+![STM32 Soil Monitor Demo](docs/soil_monitor_gif.GIF)
 
 
 ## 🧭 Board Information
@@ -56,5 +56,6 @@
 - **BOOT0:** 0 (Normal boot)
 - **JP1:** Closed (5V via USB)
 ---
+
 
 
