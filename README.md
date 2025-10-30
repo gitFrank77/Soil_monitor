@@ -18,7 +18,7 @@
 
 ## 🧭 Board Information
 - **Board Name:** [ STM32F030F4Px Device from STM32F0 series]
-- **MCU:** [ STM32F4034PX, ARM Cortex-M0]
+- **MCU:** [ STM32F030F4Px, ARM Cortex-M0]
 - **Clock:** [48 MHz internal PLL]
 - **Flash / RAM:** [e.g., 16 KB Flash, 4 KB RAM]
 - **Power Source:** [e.g., USB 5V → onboard 3.3V regulator]
