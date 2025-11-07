@@ -1,3 +1,11 @@
+# Soil Monitor (STM32)
+Conductivity-based soil moisture sensing system for smart agriculture.
+
+![License](https://img.shields.io/badge/license-MIT-green)
+![Language](https://img.shields.io/github/languages/top/gitFrank77/Soil_monitor)
+![Last Commit](https://img.shields.io/github/last-commit/gitFrank77/Soil_monitor)
+
+
 ## System Overview
 -**Description:**[ Soil moisture monitor with local alerting. When LED 'alerts' are solid 
                    this means the soil moisture is sufficient. When the LED 'alerts' blink
@@ -56,6 +64,7 @@
 - **BOOT0:** 0 (Normal boot)
 - **JP1:** Closed (5V via USB)
 ---
+
 
 
 
