@@ -1,9 +1,14 @@
 # Soil Monitor (STM32)
+
 Conductivity-based soil moisture sensing system for smart agriculture.
 
-![License](https://img.shields.io/badge/license-MIT-green)
+![Firmware](https://img.shields.io/badge/Firmware-STM32F0-blue)
+![Sensor](https://img.shields.io/badge/Sensor-Analog%20Conductivity-green)
+![Status](https://img.shields.io/badge/Status-Stable%20v1.0.0-success)
 ![Language](https://img.shields.io/github/languages/top/gitFrank77/Soil_monitor)
 ![Last Commit](https://img.shields.io/github/last-commit/gitFrank77/Soil_monitor)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 
 ## System Overview
@@ -64,6 +69,7 @@ Conductivity-based soil moisture sensing system for smart agriculture.
 - **BOOT0:** 0 (Normal boot)
 - **JP1:** Closed (5V via USB)
 ---
+
 
 
 
