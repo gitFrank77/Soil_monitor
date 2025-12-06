@@ -5,7 +5,7 @@ Conductivity-based soil moisture sensing system for smart agriculture.
 ![Firmware](https://img.shields.io/badge/Firmware-STM32F0-blue)
 ![Board](https://img.shields.io/badge/Board-NUCLEO--F072RB-orange)
 ![Sensor](https://img.shields.io/badge/Sensor-Analog%20Conductivity-green)
-![Status](https://img.shields.io/badge/Status-Stable%20v1.0.0-success)
+![version](https://img.shields.io/badge/version-v0.1.0-blue)
 ![Language](https://img.shields.io/github/languages/top/gitFrank77/Soil_monitor)
 ![Last Commit](https://img.shields.io/github/last-commit/gitFrank77/Soil_monitor)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
@@ -71,6 +71,7 @@ Conductivity-based soil moisture sensing system for smart agriculture.
 - **BOOT0:** 0 (Normal boot)
 - **JP1:** Closed (5V via USB)
 ---
+
 
 
 
