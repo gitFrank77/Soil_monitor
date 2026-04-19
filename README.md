@@ -152,8 +152,6 @@ git clone https://github.com/gitFrank77/Soil_monitor.git
 ## ⚠️ Known Issues / Future Work
 - [ ] Add UART debug output for raw ADC readings
 - [ ] Configurable moisture threshold (currently hardcoded)
-- [ ] Deep sleep / low-power mode to extend battery life
-- [ ] Wireless reporting (BLE / LoRa) for remote monitoring
 
 ---
 
