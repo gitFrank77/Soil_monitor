@@ -30,19 +30,19 @@
 ---
 
 ## ✨ Features
-- 🌿 **3-channel soil moisture sensing** via analog conductivity probes
-- 💡 **LED alert system** — solid = sufficient moisture, blinking = water needed
-- ⚡ **Ultra low-power MCU** (STM32F030, Cortex-M0) suitable for battery operation
-- 🔋 **USB battery powered** — portable and field-deployable
-- 📡 **ADC-based sensing** with no external libraries
+-  **3-channel soil moisture sensing** via analog conductivity probes
+-  **LED alert system** — solid = sufficient moisture, blinking = water needed
+-  **Ultra low-power MCU** (STM32F030, Cortex-M0) suitable for battery operation
+-  **USB battery powered** — portable and field-deployable
+-  **ADC-based sensing** with no external libraries
 
 ---
 
 ## 🧭 System Overview
 Soil moisture is measured across 3 independent channels using analog conductivity sensors. Each channel drives a dedicated LED alert:
 
-- 🟢 **Solid LED** → soil moisture is sufficient
-- 🔴 **Blinking LED** → soil is dry, add water until the LED goes solid
+-  **Solid LED** → soil moisture is sufficient
+-  **Blinking LED** → soil is dry, add water until the LED goes solid
 
 ---
 
